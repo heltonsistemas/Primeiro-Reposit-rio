@@ -1,0 +1,6 @@
+-> git init
+-> git status
+-> git add <nome do arquivo>
+-> git commit
+-> git user
+
